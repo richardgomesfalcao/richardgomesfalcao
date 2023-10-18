@@ -1,4 +1,4 @@
-### Olá, meu nome é Richard Gomes
+### Olá, meu nome é Richard Gomes !!
 
 <img height =  "180 em" src="https://github-readme-stats.vercel.app/api?username=richardgomesfalcao&show_icons=true&theme=dracula" /> <img height =  "180 em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardgomesfalcao&show_icons=true&theme=dracula" />
 
