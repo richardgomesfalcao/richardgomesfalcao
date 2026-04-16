@@ -68,5 +68,5 @@ Sistema de agendamento online com integração ao Firebase.
 ## ✨ Extras
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richardgomesfalcao&theme=dracula&no-frame=true&row=1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardgomesfalcao&theme=dracula"/>
 </p>
